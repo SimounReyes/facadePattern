@@ -15,5 +15,8 @@ public class HotelApp {
         fdValet.chooseService();
         fdHouseKeeping.chooseService();
         fdCart.chooseService();
+
+        System.out.println("\n---------------------------------------------\n" +
+                "Thank You! Just message us if you need any help!");
     }
 }
